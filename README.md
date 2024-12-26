@@ -29,7 +29,7 @@ This project implements a fine-tuned AI model for answering medical questions us
 
 This project requires a valid Lamini API key to access the Lamini platform and perform fine-tuning. Ensure you have the necessary credentials before running the application.
 
-Change in Loss during fine-tuning:
+Change in Loss during fine-tuning process:
 
 ![Loss](https://github.com/user-attachments/assets/998208f5-5c5e-4665-9f19-0e1cf49e8216)
 
